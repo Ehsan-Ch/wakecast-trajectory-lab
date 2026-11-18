@@ -1,0 +1,16 @@
+{
+  "horizon_seconds": 600,
+  "target_tolerance_seconds": 60,
+  "history_seconds": 360,
+  "minimum_history_seconds": 120,
+  "maximum_gap_seconds": 180,
+  "origin_spacing_seconds": 300,
+  "minimum_speed_knots": 2,
+  "train_end": "2024-01-01T12:00:00Z",
+  "calibration_end": "2024-01-01T18:00:00Z",
+  "nominal_coverage": 0.9,
+  "scale_bounds": [0, 1.5],
+  "earth_radius_m": 6371000,
+  "reference_latitude": 33.75,
+  "reference_longitude": -118.215
+}

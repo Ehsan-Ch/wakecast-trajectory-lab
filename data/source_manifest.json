@@ -1,0 +1,7 @@
+{
+  "url": "https://noaaocm.blob.core.windows.net/ais/csv2/csv2024/ais-2024-01-01.csv.zst",
+  "sha256": "04e80b2f2896f51a7623e098eb48503b95786c9badf06550ce9e7d418654cb2d",
+  "bytes": 196492824,
+  "retrieved": "2026-11-17",
+  "hash_note": "Locally computed integrity pin; no publisher checksum supplied."
+}
